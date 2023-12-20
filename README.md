@@ -19,3 +19,7 @@ Tập tin "NLP_Cuối_Kì.ipynb" là source code của các mô hình bao 
 Tập tin "model.py" là source chứa code của mô hình deep learning (LSTM) có bao gồm giao diện 
 
 Và tập tin "main.py" dùng để chạy mô hình đó
+
+- Giao diện demo:
+  ![image](https://github.com/chaukydang/NLP_Project/assets/94186949/6f11f59f-fa7d-4519-a44e-026d57df30c7)
+
