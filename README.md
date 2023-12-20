@@ -1,5 +1,10 @@
 # NLP_Project
+
+![image](https://github.com/chaukydang/NLP_Project/assets/94186949/768df910-aaf8-4fe2-98a7-0500fbb68786)
+
 ### Nhận biết cảm xúc dựa vào bộ dữ liệu Emotion Dataset for Emotion Recognition Tasks
+
+
 
 Bộ dữ liệu tập hợp các tin nhắn Twitter bằng tiếng Anh với sáu cảm xúc cơ bản: anger, disgust, fear, joy, sadness and surprise. Để biết thêm thông tin chi tiết xin vui lòng tham khảo bài viết dưới đây.
 
